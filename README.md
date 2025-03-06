@@ -9,6 +9,7 @@ I'm currently perssuing a Computer Science bachelor's degree at Warsaw universit
 - CSS
 - JS(React)
 - Docker
+- SQL(MySQL, Oracle)
 
 ## Portfolio
 [link](https://github.com/MarcinPolewski/Portfolio.git)
